@@ -1,3 +1,7 @@
+# Muhammad Deo Audha Rizki
+
+Welcome to my GitHub profile!
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deo23&label=Profile%20views&color=0e75b6&style=flat" alt="deo23" /> </p>
 
 <h3 align="left">Connect with me:</h3>
